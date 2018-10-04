@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 import turtle
-#Turtle é um módulo em python para fazer desenhos na tela 
+#Turtle é um módulo em python para fazer desenhos na tela
 
 pen = turtle.Pen()  #Constrói a caneta
 pen.forward(100)    #anda 100 posições para frente
